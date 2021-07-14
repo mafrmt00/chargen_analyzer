@@ -11,7 +11,7 @@ import hashlib
 #Command lines for testing
 
 #Display Info about original ROM
-sys.argv = ['chargen_analyzer.py', '-i', 'APPLE II+ - 7341-0036 - CHARACTER GENERATOR REV7+ - 2716.bin', '-p', 'True', '-n', 'True', '-a', 'True']
+#sys.argv = ['chargen_analyzer.py', '-i', 'APPLE II+ - 7341-0036 - CHARACTER GENERATOR REV7+ - 2716.bin', '-p', 'True', '-n', 'True', '-a', 'True']
 
 #Display Info about original Japanese j-plus ROM
 #sys.argv = ['chargen_analyzer.py', '-i', 'Apple II j-plus Video ROM.bin', '-p', 'True', '-n', 'True', '-a', 'True']
